@@ -1,6 +1,6 @@
 [project]
 name = "openglypa-hooks"
-version = "0.1.0"
+version = "0.0.1"
 description = "Хуки для Openglypa"
 readme = "README.md"
 authors = [
