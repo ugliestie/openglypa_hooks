@@ -1,7 +1,7 @@
 [project]
 name = "openglypa-hooks"
 version = "0.1.0"
-description = "Add your description here"
+description = "Хуки для Openglypa"
 readme = "README.md"
 authors = [
     { name = "Kira Zh*", email = "ugliestie@proton.me" }
