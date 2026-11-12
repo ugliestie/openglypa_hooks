@@ -1,0 +1,6 @@
+- id: check_memes
+  name: check_memes
+  description: Этот хук проверяет, корректно ли настроена функция генерации мема.
+  entry: check_memes
+  language: python
+  types: [python]
