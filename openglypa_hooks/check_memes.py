@@ -21,7 +21,7 @@ def main() -> int:
         ifs = re.findall(ifs_reg, function)
         found = False
         for i in ifs:
-            if int(i) not in range(int(a), int(b)):
+            if int(i) not in range(int(a), int(b)+1):
                 found = True
                 print(f"Мем под select = {i} не входит в диапозон выбора")
 
